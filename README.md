@@ -70,10 +70,30 @@
 
 以自助代充平台为例（本文以 [czgptai.com](https://www.czgptai.com/) 演示，流程在同类平台大同小异）：
 
+![ChatGPT Plus充值平台首页：支持支付宝/微信付款的自助充值服务](assets/chatgpt-plus-chongzhi-pingtai.png)
+
 1. **选择套餐**：进入平台选择 ChatGPT Plus / Pro 对应周期的套餐，用支付宝或微信付款。
+
+   ![AI订阅充值服务列表：ChatGPT、Claude、Gemini、Grok、Suno](assets/chatgpt-chongzhi-fuwu-liebiao.png)
+
+   ![ChatGPT Plus/Pro套餐价格选择页：支付宝微信付款](assets/chatgpt-plus-taocan-jiage.png)
 2. **获取卡密**：付款后系统自动发放卡密（通常 1–2 分钟内）。
+
+   ![ChatGPT Plus充值下单页：填写手机号或邮箱](assets/chatgpt-plus-xiadan.png)
+
+   ![支付宝/微信扫码支付ChatGPT Plus订单](assets/zhifubao-weixin-zhifu.png)
+
+   ![付款成功后卡密自动发放页面](assets/kami-zidong-fafang.png)
 3. **自助兑换**：按平台指引在兑换页填入卡密和你的 ChatGPT 账号邮箱，等待升级完成。
+
+   ![兑换页输入卡密验证：无需账号密码](assets/kami-duihuan-yanzheng.png)
+
+   ![提交前核对充值套餐与账号邮箱](assets/duihuan-queren-tijiao.png)
+
+   ![ChatGPT Plus充值成功页面：状态已完成](assets/chongzhi-chenggong.png)
 4. **确认到账**：回到 ChatGPT 刷新页面，左下角出现 Plus 标识即开通成功。全程不需要提供账号密码。
+
+   ![ChatGPT账号显示Plus标识：充值开通成功](assets/chatgpt-plus-kaitong-chenggong.png)
 
 整个流程几分钟完成。gpt plus充值、gptpro充值走的是同一套逻辑，只是套餐选择不同。
 
