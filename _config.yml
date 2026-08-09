@@ -1,0 +1,21 @@
+title: ChatGPT充值指南 2026
+description: 国内用户用支付宝/微信开通 ChatGPT Plus、Pro、Codex、Claude 的完整教程与避坑指南
+lang: zh-CN
+url: ""
+
+markdown: kramdown
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+relative_links:
+  enabled: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
