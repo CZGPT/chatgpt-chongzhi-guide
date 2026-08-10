@@ -26,6 +26,7 @@
 | [Codex 充值教程](docs/codex.md) | 订阅制 vs API 计费、开发者开通流程、团队批量开通 |
 | [Claude Pro 充值教程](docs/claude.md) | Claude Pro / Claude Code 订阅、ChatGPT 双持方案 |
 | [充值报错排查手册](docs/errors.md) | credit card declined、3DS 失败、没有 Plus 标识等逐条解法 |
+| [Google Play 银联卡订阅教程](https://github.com/CZGPT/chatgpt-yinlian-chongzhi) | 国内银行卡直接订阅 ChatGPT Plus 的完整方法与图文步骤 |
 
 
 ## 为什么国内 ChatGPT 充值总是失败
@@ -47,6 +48,7 @@
 | 苹果礼品卡内购 | 美区礼品卡 | ★★★ | 当天 | 问题礼品卡牵连 Apple ID | iPhone 用户且熟悉美区操作 |
 | 海外虚拟信用卡 | USDT / 跨境入金 | ★★★★★ | 不确定 | 平台跑路、KYC 门槛高 | 懂技术的折腾党 |
 | 找朋友海外代付 | 海外真实信用卡 | ★★ | 当天 | 依赖人情，不可持续 | 有海外亲友的用户 |
+| Google Play 银联绑卡（[教程](https://github.com/CZGPT/chatgpt-yinlian-chongzhi)） | 国内银联卡 | ★★★ | 当天 | 需稳定新加坡节点，美元计价自动续订 | 安卓/鸿蒙用户且有稳定节点 |
 
 ### 自助代充平台（当前主流）
 
