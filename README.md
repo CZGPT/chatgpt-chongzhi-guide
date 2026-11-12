@@ -24,6 +24,7 @@
 
 | 主题 | 覆盖内容 |
 |---|---|
+| [ChatGPT充值 / ChatGPT代充平台对比 2026](https://czgpt.github.io/chatgpt-chongzhi-daichong-duibi/) | 8 家平台 Plus / Pro / Codex 价格、充值方式、退款与质保逐项对比 |
 | [ChatGPT Plus 购买教程](docs/chatgpt-plus.md) | 支付宝/微信开通 Plus 完整流程、周期选择、Plus vs Pro |
 | [Codex 充值教程](docs/codex.md) | 订阅制 vs API 计费、开发者开通流程、团队批量开通 |
 | [Claude Pro 充值教程](docs/claude.md) | Claude Pro / Claude Code 订阅、ChatGPT 双持方案 |
