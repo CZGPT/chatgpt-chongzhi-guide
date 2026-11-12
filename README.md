@@ -22,6 +22,18 @@
 
 ## 📚 分主题详细教程
 
+- [codex 代充前先分清：套餐直充还是按量额度？登录方式选错等于白充｜Plus 168 元、30 天质保](docs/codex-daichong-denglu-fangshi-2026.md)（2026-11-12 更新）
+- [chatgpt plus 购买还是先买 Go？20 美元与 8 美元怎么选，12 月 11 日语音换代前看清（2026）](docs/chatgpt-plus-goumai-go-duibi-2026.md)（2026-11-11 更新）
+- [gpt 代充哪家靠谱？6 条挑选标准：透明价格、不要密码、30 天质保与收据（2026）](docs/gpt-daichong-najia-kaopu-2026.md)（2026-11-10 更新）
+- [chatgpt 账号购买前先看：为什么建议自己注册，订阅和记录都转不走（2026）](docs/chatgpt-zhanghao-goumai-ziji-zhuce-2026.md)（2026-11-09 更新）
+- [codex 充值怎么选：额度用完后买 credits、等重置还是升级套餐（2026）](docs/codex-chongzhi-credits-2026.md)（2026-11-08 更新）
+- [chatgpt 账号被停用怎么办？11月7日集中封号反馈与申诉步骤](docs/chatgpt-zhanghao-tingyong-shensu-2026.md)（2026-11-07 更新）
+- [chatgpt 账号自己注册后怎么保护：通行密钥、MFA 与换机检查清单（2026）](docs/chatgpt-zhanghao-anquan-huanji-2026.md)（2026-11-07 更新）
+- [chatgpt 充值前必看：12 月起 Plus / Pro 将与 Codex 共用额度（2026）](docs/chatgpt-chongzhi-gongxiang-edu-2026.md)（2026-11-06 更新）
+- [chatgpt 代充怎么选：Images 2.6 上线 GIF 后，Plus / Pro 还值不值得升（2026）](docs/chatgpt-daichong-images-26-2026.md)（2026-11-05 更新）
+- [2026 ChatGPT 注册教程：国内邮箱注册、桌面端登录与 Plus / Pro 充值](docs/chatgpt-zhuce-jiaocheng-2026.md)（2026-11-05 更新）
+- [Claude Pro 开始要求 KYC？2026 年 11 月 Anthropic 风控新政全解读](docs/claude-pro-kyc-2026.md)（2026-11-05 更新）
+
 | 主题 | 覆盖内容 |
 |---|---|
 | [ChatGPT充值 / ChatGPT代充平台对比 2026](https://czgpt.github.io/chatgpt-chongzhi-daichong-duibi/) | 8 家平台 Plus / Pro / Codex 价格、充值方式、退款与质保逐项对比 |
