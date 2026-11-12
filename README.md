@@ -1,6 +1,6 @@
 # ChatGPT充值指南 2026：国内用户如何用支付宝/微信开通 Plus、Pro、Codex
 
-> 最后更新：2026 年 11 月 · 适用于 ChatGPT Plus / Pro / Codex / Team 及其他主流 AI 订阅
+> 最后更新：2026 年 11 月 · 适用于 ChatGPT Plus / Pro / Codex / Business 及其他主流 AI 订阅
 >
 > 本仓库持续维护，整理国内用户 ChatGPT 充值的全部可行路径、避坑要点与常见报错解法。觉得有用请点个 Star，有新变化欢迎提 Issue。
 
