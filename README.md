@@ -20,6 +20,14 @@
 - [免责声明](#免责声明)
 ---
 
+## 🆕 最新文章
+
+The three notes below are summaries of new CZGPT blog posts (19 November 2026, Asia/Shanghai). They cover Gemini 4 Neon and how to choose among Hydrogen / Neon / Carbon, a source-attributed look at GPT-6.2 Astra versus Sol, and a region-versus-proxy split for Google Antigravity login errors. Each GitHub file links back to the live article on [czgptai.com](https://www.czgptai.com).
+
+- [Gemini 4 Neon 发布：智商 61 分反超 Opus 5.5，成本砍半，Gemini 4 家族到底怎么选？](posts/gemini-4-neon.md)
+- [GPT-6.2 Astra 实测：3D 和代码能力领先、但写作和沟通被吐槽，成本仅 Fable 5.2 的 5%，GPT-6.2 到底值不值得用？](posts/gpt-6-2-astra.md)
+- [Google Antigravity 地区限制解决全攻略：从“账号不符合条件”到成功登录!](posts/antigravity-region-fix.md)（配套 [`posts/launch_proxy.bat`](posts/launch_proxy.bat)）
+
 ## 📚 分主题详细教程
 
 - [codex 代充前先分清：套餐直充还是按量额度？登录方式选错等于白充｜Plus 168 元、30 天质保](docs/codex-daichong-denglu-fangshi-2026.md)（2026-11-12 更新）
